@@ -1,0 +1,7 @@
+which is included in brewers cap theorem and explain what this means for distributed systems / databases? Availability 1 , Partition Tolerance 2 , Consistency 3 ,one of the two 4 ,correct answer number 4
+which of the following is In domain driven design . Give the name of types of classes.Entity 1 ,Value Object 2 , Domain Service 3 , All 4 , correct answer number 4
+what is the price you pay for the ability to scale out No-SQL databases,eventual consistency 1 , No Consequence 2, Other 4 , correct answer number 4
+which is subdomain types?Core subdomain 1 , Supporting subdomain 2 , Generic subdomain 3 ,All 4 ,4
+why it is important to identify these subdomain types, where to focus 1 , resource management 2 , Where to apply DDD 3 ,ALL 4,correct answer number 4
+why it is difficult to scale out a relational database, Strict 1 , consistent B  , No reason 3 , one and 2  4 ,correct answer number 4
+why it is not good to use an anemic domain model,No powerful OO techniques 1 , Business logic (rules) is hard to find 2 , No single responsibility 3 , 4 All ,correct answer number 4
